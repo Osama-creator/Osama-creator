@@ -12,9 +12,5 @@
 
 ## [**`My blog (arabic content)`**](https://osama.blogspot.com/)
 
-## **`My Packages`**
 
-| name                                                                   | desc                                                                      |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [**`QUEEN`**](https://flutterqueen.github.io/website/)                 | localization,validation,theming ...etc                                    |
-|          | custom alerts within the app                                              |
+|  
