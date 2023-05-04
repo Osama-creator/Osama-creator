@@ -10,7 +10,4 @@
 
 ![Osama GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osama&show_icons=true&theme=dark)
 
-## [**`My blog (arabic content)`**](https://osama.blogspot.com/)
 
-
-|  
