@@ -35,7 +35,7 @@ If you have any questions or need help with the following topics, feel free to r
 
 ## 🚀 My GitHub Stats
 
-![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osama&show_icons=true&theme=dark)
+![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osama-creator)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama&langs_count=7&theme=dark)
 
 ## 🛠️ Tech Stack
