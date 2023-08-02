@@ -55,6 +55,10 @@ If you have any questions or need help with the following topics, feel free to r
 
 Here are some of my noteworthy projects:
 
+##languages and tools 
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ## 🌟 Let's Connect
 
