@@ -37,7 +37,6 @@ If you have any questions or need help with the following topics, feel free to r
 
 ![Osama's GitHub Stats!](https://github-readme-stats.vercel.app/api?username=Osama-creator&show_icons=true&theme=transparent)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Osama-creatore&bg_color=ffffff&color=4CAF50&line=4CAF50&point=ffffff&area=true&hide_border=true)
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=Osama-creator&color=blueviolet)
 
