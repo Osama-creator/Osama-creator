@@ -8,8 +8,7 @@ I have a strong background in Dart and Flutter and love creating interactive and
 
 ## 💼 Experience
 
-- **[Your Previous Experience 1]**: Description of your role and accomplishments.
-- **[Your Previous Experience 2]**: Description of your role and accomplishments.
+
 
 ## 🌱 Currently Learning
 
@@ -17,7 +16,7 @@ I'm continuously improving my skills in software development and currently divin
 
 - Unit and Widget Testing in Flutter.
 - Creating robust and scalable architectures for Flutter apps.
-- [Add any other learning goals you have here]
+]
 
 ## 💬 Ask Me About
 
@@ -50,8 +49,6 @@ If you have any questions or need help with the following topics, feel free to r
 
 Here are some of my noteworthy projects:
 
-- **[Project 1]**: Description and link to the repository or demo.
-- **[Project 2]**: Description and link to the repository or demo.
 
 ## 🌟 Let's Connect
 
