@@ -29,9 +29,9 @@ If you have any questions or need help with the following topics, feel free to r
 
 ## 📫 How to Reach Me
 
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [LinkedIn Profile URL]
-- **Portfolio**: [Link to your portfolio or personal website]
+- **Email**: []
+- **LinkedIn**: []
+- **Portfolio**: []
 
 ## 🚀 My GitHub Stats
 
