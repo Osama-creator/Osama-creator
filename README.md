@@ -29,9 +29,9 @@ If you have any questions or need help with the following topics, feel free to r
 
 ## 📫 How to Reach Me
 
-- **Email**: []
-- **LinkedIn**: []
-- **Portfolio**: []
+- **Email**: [osskh1221@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/osama-essam-eldin]
+- **Facebook**: [https://www.facebook.com/profile.php?id=100092995660896]
 
 ## 🚀 My GitHub Stats
 
