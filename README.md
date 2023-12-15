@@ -45,15 +45,12 @@ If you have any questions or need help with the following topics, feel free to r
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Dart, JavaScript, Java
-- **Frameworks**: Flutter, React
+- **Languages**: Dart,Pythone, Java
+- **Frameworks**: Flutter,
 - **Version Control**: Git
 - **Tools**: Android Studio, Visual Studio Code
 - **Database**: Firebase, SQLite
 
-## 📚 Projects
-
-Here are some of my noteworthy projects:
 
 ##languages and tools 
 
